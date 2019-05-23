@@ -1,0 +1,57 @@
+/* Style your pure Css Webpage */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Quicksand');
+
+.navbar-brand{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.fab {
+  margin:8px;
+}
+
+.fab{
+  color: white;
+}
+
+div.jumbotron{
+  background-color:white;
+}
+
+.footerlist {
+  list-style-type: none;
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  padding:0px;
+}
+
+.footerlist li a{
+  text-decoration: none;
+  color:white;
+}
+
+
+.maindiv {
+  background-color:grey;
+  width:100%;
+  max-width:800px;
+}
+
+
+
+.joblist {
+  list-style-type: none;
+  text-align: left;
+
+}
+
+.joblist li p{
+  color:#F75C03;
+}
+
+.btn-primary{
+  width:200px;
+  height:50px;
+}
